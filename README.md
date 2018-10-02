@@ -88,6 +88,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [Exicution Context In Js](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/).&nbsp;&nbsp;:new:
 - [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/).&nbsp;&nbsp;:new:
 - [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/).&nbsp;&nbsp;:new:
 - [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)&nbsp;&nbsp;:new:
